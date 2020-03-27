@@ -12,5 +12,5 @@ output_path = "C:/"  <br />
 tickers = ["DAI.DE", "BNP.PA"]  <br />
 
 Goal :
-Calculates the weights to maximize the ptf return, minimize the standard deviation, maximize the Sharpe Ratio, minimize the VaR @ 95 and 99 % for a given period of time.
+Calculates the weights to maximize the portfolio return, minimize the standard deviation, maximize the Sharpe Ratio, minimize the VaR @ 95 and 99 % for a given period of time.
 Correlation matrix is also given.
