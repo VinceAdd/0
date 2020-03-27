@@ -5,7 +5,7 @@ ptf_optimizer_v1.0.py
 <strong> inputs <strong />
 
 <strong>  >> period to use in yahoo finance data extraction <strong /><br />
-yf_period = "5y"  <br />
+yf_period = "5y"  --> valid period : 1d,5d,1mo,3mo,6mo,1y,2y,5y,10y,ytd,max  <br />
 <strong> >> output directory  <strong /><br />
 output_path = "C:/"  <br />
 <strong> >> list of tickers to look for  <strong /><br />
